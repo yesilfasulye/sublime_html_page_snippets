@@ -1,8 +1,6 @@
 Sublime Text HTML Page Snippets
 ===
 
-The snippets are listed below.
-
 <img src="https://github.com/yesilfasulye/sublime_html_snippets/blob/master/html-snippet.png?raw=true"/>
 
 
