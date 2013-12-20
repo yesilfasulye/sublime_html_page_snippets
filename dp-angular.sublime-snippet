@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Demo</title>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	    <meta name="description" content="Demo project">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.6/angular.min.js"></script>
+		<link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css">
+		<style type="text/css"></style>
+	</head>
+	<body ng-app>
+		${1:<p>Let the game begin!</p>}
+	</body>
+	<script type="text/javascript"></script>
+</html>
+]]></content>
+<tabTrigger>docang</tabTrigger>
+<description>HTML w/ AngularJS</description>
+</snippet>
