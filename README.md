@@ -1,15 +1,31 @@
 Sublime Text HTML Page Snippets
 ===
 
-<img src="http://www.burakkaya.com/lab/snippets/html-snippet.png"/>
+Sublime Text snippets to generate the HTML5 page templates.
 
+
+Install
+---
+Copy the files to your Packages directory.
+
+
+Usage
+---
+
+With a blank file open, type "doc" or "docjq" or "docang" and press TAB.
+
+<img src="http://www.burakkaya.com/lab/snippets/html-snippet.png"/>
 
 
 
 Blank HTML Page
 ---
 
-<b>tabTrigger</b> <code>doc</code>
+<b>tabTrigger</b>
+
+	doc
+
+<b>That generates:</b>
 
 <img src="http://www.burakkaya.com/lab/snippets/html-demopage.png" />
 
@@ -34,7 +50,11 @@ Blank HTML Page
 HTML Page with jQuery
 ---
 
-<b>tabTrigger</b> <code>docjq</code>
+<b>tabTrigger</b>
+
+	docjq
+
+<b>That generates:</b>
 
 <img src="http://www.burakkaya.com/lab/snippets/html-jquery.png"/>
 
@@ -64,7 +84,11 @@ HTML Page with jQuery
 HTML Page with AngularJS
 ---
 
-<b>tabTrigger</b> <code>docang</code>
+<b>tabTrigger</b>
+
+	docang
+	
+<b>That generates:</b>	
 
 <img src="http://www.burakkaya.com/lab/snippets/html-angularjs.png" />
 
