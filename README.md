@@ -11,6 +11,7 @@ Blank HTML Page
 
 <b>tabTrigger</b> <code>doc</code>
 
+<img src="https://github.com/yesilfasulye/sublime_html_snippets/blob/master/html-demopage.png?raw=true" />
 
 	  <!DOCTYPE html>
 	  <html>
@@ -35,6 +36,7 @@ HTML Page with jQuery
 
 <b>tabTrigger</b> <code>docjq</code>
 
+<img src="https://github.com/yesilfasulye/sublime_html_snippets/blob/master/html-jquery.png?raw=true"/>
 
 	<!DOCTYPE html>
 	<html>
@@ -64,6 +66,7 @@ HTML Page with AngularJS
 
 <b>tabTrigger</b> <code>docang</code>
 
+<img src="https://github.com/yesilfasulye/sublime_html_snippets/blob/master/html-angularjs.png?raw=true" />
 
 	<!DOCTYPE html>
 	<html>
