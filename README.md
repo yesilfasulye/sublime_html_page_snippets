@@ -6,6 +6,10 @@ Sublime Text snippets to generate the HTML5 page templates.
 
 Install
 ---
+Available at <b>Package Manager!</b> Just search for <b>HTML Page Snippets</b>.
+
+or
+
 Copy the files to your Packages directory.
 
 
