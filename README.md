@@ -41,7 +41,7 @@ Blank HTML Page
 	  		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	  	    <meta name="description" content="Demo project">
 	  		<meta name="viewport" content="width=device-width, initial-scale=1">
-	  		<link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css">
+	  		<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
 	  		<style type="text/css"></style>
 	  	</head>
 	  	<body>
@@ -70,7 +70,7 @@ HTML Page with jQuery
 			<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 			<meta name="description" content="Demo project with jQuery">
 			<meta name="viewport" content="width=device-width, initial-scale=1">
-			<link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css">	
+			<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">	
 			<style type="text/css"></style>
 		</head>
 		<body>
@@ -105,7 +105,7 @@ HTML Page with AngularJS
 			<meta name="description" content="Demo project">
 			<meta name="viewport" content="width=device-width, initial-scale=1">
 			<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.6/angular.min.js"></script>
-			<link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css">
+			<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
 			<style type="text/css"></style>
 		</head>
 		<body ng-app>
