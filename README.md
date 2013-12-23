@@ -31,8 +31,6 @@ Blank HTML Page
 
 <b>That generates:</b>
 
-<img src="http://www.burakkaya.com/lab/snippets/html-demopage.png" />
-
 	  <!DOCTYPE html>
 	  <html>
 	  	<head>
@@ -59,8 +57,6 @@ HTML Page with jQuery
 	docjq
 
 <b>That generates:</b>
-
-<img src="http://www.burakkaya.com/lab/snippets/html-jquery.png"/>
 
 	<!DOCTYPE html>
 	<html>
@@ -93,8 +89,6 @@ HTML Page with AngularJS
 	docang
 	
 <b>That generates:</b>	
-
-<img src="http://www.burakkaya.com/lab/snippets/html-angularjs.png" />
 
 	<!DOCTYPE html>
 	<html>
