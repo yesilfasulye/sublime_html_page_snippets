@@ -129,12 +129,13 @@ HTML Page with ReactJS and JSX transformer
 	        <style type="text/css"></style>
 	    </head>
 	    <body>
-	        ${1:<p>Let the game begin!</p>}
+	        <div id="app"></div>
 	    </body>
 	    <script src="http://fb.me/react-0.12.2.min.js"></script>
 	    <script src="http://fb.me/JSXTransformer-0.12.2.js"></script>
-	    <script type="text/javascript">
-	            $2
+	    <script type="text/jsx">
+	        /** @jsx React.DOM */
+	            
 	    </script>
 	</html>
 
