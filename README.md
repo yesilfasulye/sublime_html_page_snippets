@@ -107,3 +107,43 @@ HTML Page with AngularJS
 		</body>
 		<script type="text/javascript"></script>
 	</html>
+
+HTML Page with ReactJS and JSX transformer
+---
+
+<b>tabTrigger</b>
+
+	docrct
+	
+<b>That generates:</b>	
+
+	<!DOCTYPE html>
+	<html>
+	    <head>
+	        <title>Demo with React and JSX</title>
+	        <meta charset="utf-8">
+	        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	        <meta name="description" content="Demo project with React.js and JSX transformer">
+	        <meta name="viewport" content="width=device-width, initial-scale=1">
+	        <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"> 
+	        <style type="text/css"></style>
+	    </head>
+	    <body>
+	        ${1:<p>Let the game begin!</p>}
+	    </body>
+	    <script src="http://fb.me/react-0.12.2.min.js"></script>
+	    <script src="http://fb.me/JSXTransformer-0.12.2.js"></script>
+	    <script type="text/javascript">
+	            $2
+	    </script>
+	</html>
+
+Building Package
+---
+<b>Build command for local install</b>
+
+$> ./build &lt;dir name&gt;
+
+<b>That generates:</b>
+
+&lt;dir name&gt;/HTML Page Snippets.sublime-package

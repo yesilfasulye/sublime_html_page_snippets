@@ -1,0 +1,8 @@
+#!/bin/bash
+cwd=${PWD##*/}
+if [[ -d "$1" ]]
+then 
+    cwd=$1
+fi
+
+`zip -rq "$cwd/HTML Page Snippets.sublime-package" ./*.sublime-snippet`
