@@ -18,7 +18,7 @@ Usage
 
 With a blank file open, type "doc" and press TAB.
 
-<img src="http://www.burakkaya.com/lab/snippets/html-snippet.png"/>
+![alt tag](https://raw.githubusercontent.com/yesilfasulye/sublime_html_page_snippets/master/screenshot.png)
 
 
 Blank HTML Page
