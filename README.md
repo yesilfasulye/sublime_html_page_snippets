@@ -26,7 +26,7 @@ Blank HTML Page
 
 <b>tabTrigger</b>
 
-	doc
+	docu
 
 <b>That generates:</b>
 
