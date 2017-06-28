@@ -20,7 +20,7 @@
 			  data: {
 			    message: 'Let the game begin!'
 			  }
-			})
+			});
 		</script>
 	</body>
 </html>
