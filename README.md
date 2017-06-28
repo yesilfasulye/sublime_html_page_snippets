@@ -16,7 +16,7 @@ Copy the files to your Packages directory.
 Usage
 ---
 
-With a blank file open, type "doc" and press TAB.
+With a blank file open, type "docu" and press TAB.
 
 ![alt tag](https://raw.githubusercontent.com/yesilfasulye/sublime_html_page_snippets/master/screenshot.png)
 
